@@ -1,10 +1,10 @@
 ⭐  Amazon-Sales-Report Dashboard – Power BI Report
 
-A clean, modular, and insight-driven Power BI dashboard designed to transform the Kegal dataset into meaningful business intelligence.
+A clean, modular, and insight-driven Power BI dashboard designed to transform the Amazon sales dataset into meaningful business intelligence.
 
 🚀 Purpose
 
-The goal of this dashboard is to provide a quick, interactive, and visually rich overview of key Kegal metrics.
+The goal of this dashboard is to provide a quick, interactive, and visually rich overview of key Amazon sales metrics.
 It helps users:
 
 Monitor important KPIs
@@ -31,7 +31,7 @@ Native Power BI Visualizations
 
 📂 Data Source
 
-Kegal Dataset (imported into Power BI)
+Keggle Dataset (imported into Power BI)
 Contains operational, performance, and business-related metrics used to build insights and custom KPIs.
 
 ✨ Features & Highlights
